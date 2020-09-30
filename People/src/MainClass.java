@@ -8,7 +8,7 @@ public class MainClass {
 	 * The main method.
 	 */
 	public static void main(String[] args) {
-		Student s1 = new Student("Alex",1998,"UTCN20424");
+		Student s1 = new Student("Alexandru",1998,"UTCN20424");
 		Student s2 = new Student();
 		Staff x = new Staff("Andrei",1990,"209");
 		
